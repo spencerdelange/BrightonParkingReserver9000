@@ -59,7 +59,7 @@ def main():
     while True:
         monitor.check_parking(target_aria_label)
         print(f"Waiting for 1 minute to retry...")
-        time.sleep(60)  # Retry every 1 minute
+        time.sleep(60) 
 
 if __name__ == "__main__":
     main()
