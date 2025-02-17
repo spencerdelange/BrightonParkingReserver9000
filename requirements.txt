@@ -1,2 +1,3 @@
 playwright
+win10toast
 win10toast-click
